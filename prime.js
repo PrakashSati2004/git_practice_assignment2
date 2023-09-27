@@ -9,4 +9,5 @@ if(count == 2){
 console.log("prime no");
 }else {
 console.log("not a prime no");
+
 }
