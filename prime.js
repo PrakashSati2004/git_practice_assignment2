@@ -5,7 +5,8 @@ for(let i = 1; i < 100; i++){
     count++;
   }
 }
-if(count == 2){
+if(count == 2)
+{
   console.log("prime no");
 }
 else {
